@@ -9,5 +9,5 @@ Resolve this error: Host_Error: CL_ReadPreserveEnt: u.m_nNewEntity == MAX_EDICTS
 ## Change log
 - **1.0 beta 2** - 2017-07-17
   - Adds a check for entities that exceed the maximum number and terminate bad entities.
-- **1.0 beta 1** - 2017-07-17
+- **1.0 beta 1** - 2017-07-13
   - beta released!
