@@ -3,6 +3,8 @@ This adds fake clients to prevent the first client from being kicked. This issue
 
 Resolve this error: Host_Error: CL_ReadPreserveEnt: u.m_nNewEntity == MAX_EDICTS
 
+# &#x1F534; BROKEN SINCE UPDATE &#x1F534;
+
 ## Cvar
   - sm_fakeclients `<0-5>` - `Number of fake clients: Default 1`
   
