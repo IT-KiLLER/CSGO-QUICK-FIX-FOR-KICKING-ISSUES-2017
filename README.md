@@ -3,8 +3,9 @@ This adds fake clients to prevent the first client from being kicked. This issue
 
 Resolve this error: Host_Error: CL_ReadPreserveEnt: u.m_nNewEntity == MAX_EDICTS
 
-# &#x1F534; BROKEN SINCE UPDATE &#x1F534;
+# &#x1F534; Resolved in new update : http://blog.counter-strike.net/index.php/2017/09/19268/ &#x1F534;
 
+**THIS plugin is no longer needed**
 ## Cvar
   - sm_fakeclients `<0-5>` - `Number of fake clients: Default 1`
   
