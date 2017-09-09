@@ -10,7 +10,7 @@ Resolve this error: Host_Error: CL_ReadPreserveEnt: u.m_nNewEntity == MAX_EDICTS
   - sm_fakeclients `<0-5>` - `Number of fake clients: Default 1`
   
 ## Change log
-- ** LEGACY * - 2017-09-09
+- **LEGACY** - 2017-09-09
   - http://blog.counter-strike.net/index.php/2017/09/19268/
 - **1.0 beta 2** - 2017-07-17
   - Adds a check for entities that exceed the maximum number and terminate bad entities.
